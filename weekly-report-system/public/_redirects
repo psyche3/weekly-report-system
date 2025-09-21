@@ -1,0 +1,3 @@
+# Netlify SPA重定向配置
+# 将所有路由重定向到index.html，支持Vue Router的history模式
+/*    /index.html   200
